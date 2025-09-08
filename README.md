@@ -1,4 +1,4 @@
-## Hi , I am Himanshu
+## Hi , I am Himanshu👋
 
 <br>🧠 Computer Science student at Northcap University(Gurugram)</br>
 <br>🧑‍💻 Upload Codes on Github</br>
