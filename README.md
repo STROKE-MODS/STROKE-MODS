@@ -1,50 +1,74 @@
+<!--
+  Setup notes for Himanshu (not visible on the rendered profile):
+  1. Paste this whole file into STROKE-MODS/STROKE-MODS/README.md
+  2. Snake workflow already added — good. Just confirm in the Actions tab that
+     "Generate Snake" shows a green checkmark, and that an `output` branch exists
+     under the branch dropdown. If both are true, the image below WILL render;
+     it just may look broken in Brave until you test with Shields off / incognito.
+  3. Update the "Featured Projects" table below any time you ship something new —
+     that table is the part visitors actually read, so keep it current.
+-->
+
 <div align="center">
-<img src="https://github.com/STROKE-MODS.png" width="120" style="border-radius:50%"/>
 
-# Himanshu Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Himanshu%20Singh&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%C2%B7%20Northcap%20University&descAlignY=62&descSize=15&descAlign=50" width="100%"/>
 
-Computer Science student at Northcap University, Gurugram
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=E94560&center=true&vCenter=true&width=560&lines=Building+small+things+in+C+and+Python;Solving+problems+on+LeetCode;Always+shipping+something+new" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=16&pause=1500&color=6C63FF&center=true&vCenter=true&width=440&lines=Learning+by+building+things;Practicing+DSA+%2B+LeetCode+daily;Always+working+on+something+new" alt="typing" />
+<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-6C63FF?style=flat&logo=instagram&logoColor=white)](https://instagram.com/himanshu_singh240407)
-[![Email](https://img.shields.io/badge/Email-6C63FF?style=flat&logo=gmail&logoColor=white)](mailto:hs619689@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/himanshu_singh240407)
+[![Email](https://img.shields.io/badge/-Email-e94560?style=flat-square&logo=gmail&logoColor=white)](mailto:hs619689@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=STROKE-MODS&color=e94560&style=flat-square&label=views)
 
 </div>
 
-&nbsp;
+<br>
 
-## Tech Stack
+### About
 
-`C` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Git`
+CS student at **Northcap University, Gurugram**, currently spending most of my time between coursework, side projects, and LeetCode. I like taking a rough idea and getting it to actually run — most of what's below started as a "let's see if I can build this" weekend project.
 
-&nbsp;
+**Stack I work in most:** `C` · `Python` · `MySQL` · `SQLite` · `NumPy` · `Git`
 
-## Projects
+<br>
 
-**[python-reset-warpath](https://github.com/STROKE-MODS/python-reset-warpath)**
-*(add a one-line description)*
+### Featured Projects
 
-**[C-Langauge](https://github.com/STROKE-MODS/C-Langauge)**
-Collection of C programs and practice work
+| Project | What it does | Stack |
+|---|---|---|
+| **[python-reset-warpath](https://github.com/STROKE-MODS/python-reset-warpath)** | Python project — see repo for details | `Python` |
+| **[C-Langauge](https://github.com/STROKE-MODS/C-Langauge)** | Collection of C programs / practice work | `C` |
+| **[TO-DO-LIST-SYSTEM](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)** | A to-do list app built with a simple web front end | `HTML` |
+| **[Weather_cli](https://github.com/STROKE-MODS/Weather_cli)** | Command-line tool that fetches weather info | — |
 
-**[TO-DO-LIST-SYSTEM](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)**
-A to-do list app with a simple web front end
+> 📝 Fill in the "what it does" column above with a real one-line pitch for each — that's the single biggest thing that makes a profile look professional to a recruiter or visitor. I've left placeholders where I don't have detail from your repos.
 
-**[Weather_cli](https://github.com/STROKE-MODS/Weather_cli)**
-Command-line tool that fetches weather info
+<br>
 
-&nbsp;
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=STROKE-MODS&show_icons=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=STROKE-MODS&hide_border=true&background=FFFFFF&stroke=6C63FF&ring=6C63FF&fire=6C63FF" width="48%" />
-</div>
-
-&nbsp;
+### GitHub Activity
 
 <div align="center">
-<sub>Thanks for stopping by 👋</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=STROKE-MODS&show_icons=true&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&icon_color=e94560&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=STROKE-MODS&theme=dark&hide_border=true&background=1a1a2e&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" width="48%" />
 </div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=STROKE-MODS&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff" width="100%" />
+</div>
+
+<details>
+<summary><b>🐍 Contribution snake</b> (click to expand)</summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/STROKE-MODS/STROKE-MODS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/STROKE-MODS/STROKE-MODS/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/STROKE-MODS/STROKE-MODS/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</details>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
