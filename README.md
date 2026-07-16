@@ -42,13 +42,14 @@ CS student at **Northcap University, Gurugram**, currently spending most of my t
 | **[TO-DO-LIST-SYSTEM](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)** | A to-do list app built with a simple web front end | `HTML` |
 | **[Weather_cli](https://github.com/STROKE-MODS/Weather_cli)** | Command-line tool that fetches weather info | — |
 
+> 📝 Fill in the "what it does" column above with a real one-line pitch for each — that's the single biggest thing that makes a profile look professional to a recruiter or visitor. I've left placeholders where I don't have detail from your repos.
 
 <br>
 
 ### GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=STROKE-MODS&show_icons=true&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&icon_color=e94560&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=STROKE-MODS&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=c9c9c9" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=STROKE-MODS&theme=dark&hide_border=true&background=1a1a2e&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" width="48%" />
 </div>
 
