@@ -42,7 +42,6 @@ CS student at **Northcap University, Gurugram**, currently spending most of my t
 | **[TO-DO-LIST-SYSTEM](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)** | A to-do list app built with a simple web front end | `HTML` |
 | **[Weather_cli](https://github.com/STROKE-MODS/Weather_cli)** | Command-line tool that fetches weather info | — |
 
-> 📝 Fill in the "what it does" column above with a real one-line pitch for each — that's the single biggest thing that makes a profile look professional to a recruiter or visitor. I've left placeholders where I don't have detail from your repos.
 
 <br>
 
