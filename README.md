@@ -42,6 +42,7 @@ CS student at **Northcap University, Gurugram**, currently spending most of my t
 | **[TO-DO-LIST-SYSTEM](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)** | A to-do list app built with a simple web front end | `HTML` |
 | **[Weather_cli](https://github.com/STROKE-MODS/Weather_cli)** | Command-line tool that fetches weather info | — |
 
+> 📝 Fill in the "what it does" column above with a real one-line pitch for each — that's the single biggest thing that makes a profile look professional to a recruiter or visitor. I've left placeholders where I don't have detail from your repos.
 
 <br>
 
@@ -56,9 +57,9 @@ CS student at **Northcap University, Gurugram**, currently spending most of my t
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=STROKE-MODS&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff" width="100%" />
 </div>
 
-<details>
-<summary><b>🐍 Contribution snake</b> (click to expand)</summary>
-<br>
+### Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/STROKE-MODS/STROKE-MODS/output/github-contribution-grid-snake-dark.svg" />
@@ -66,8 +67,14 @@ CS student at **Northcap University, Gurugram**, currently spending most of my t
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/STROKE-MODS/STROKE-MODS/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</details>
+</div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:16213e&height=90&section=header" width="100%"/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=E94560&center=true&vCenter=true&width=440&lines=Thanks+for+stopping+by!;Let's+build+something+%E2%9C%A8" alt="Footer Typing SVG" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
