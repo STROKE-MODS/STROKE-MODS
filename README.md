@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Himanshu%20Singh&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%C2%B7%20Northcap%20University&descAlignY=62&descSize=15&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=E94560&center=true&vCenter=true&width=560&lines=Building+small+things+in+C+and+Python;Solving+problems+on+LeetCode;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=E94560&center=true&vCenter=true&width=560&lines=Building+small+things+in+Different+languages;Solving+problems+on+LeetCode;Always+shipping+something+new" alt="Typing SVG" />
 
 <br>
 
