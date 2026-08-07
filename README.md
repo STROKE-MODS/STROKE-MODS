@@ -37,13 +37,13 @@ CS student at **Northcap University, Gurugram**, currently spending most of my t
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[TO-DO-LIST]([https://github.com/STROKE-MODS/python-reset-warpath](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)])**|Project for the daily to do list and essentials | `HTML-JS` |
+| **[TO-DO-LIST]([(https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)])**|Project for the daily to do list and essentials | `HTML-JS` |
 | **[C-Langauge](https://github.com/STROKE-MODS/C-Langauge)** | Collection of C programs / practice work | `C` |
 | **[TO-DO-LIST-SYSTEM](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)** | A to-do list app built with a simple web front end | `HTML` |
 | **[Weather_cli](https://github.com/STROKE-MODS/Weather_cli)** | Command-line tool that fetches weather info | — |
 
 
-<\br>
+<br>
 
 ### GitHub Activity
 
