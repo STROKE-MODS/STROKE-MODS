@@ -40,7 +40,7 @@ CS student at **Northcap University, Gurugram**, currently spending most of my t
 | **[TO-DO-LIST](https://github.com/STROKE-MODS/TO-DO-LIST-SYSTEM)**|Project for the daily to do list and essentials | `HTML-JS` |
 | **[Model-Training](https://github.com/STROKE-MODS/Model-Training)** | Model training of JARVIS | `Python` |
 | **[JARVIS](https://github.com/STROKE-MODS/JARVIS)** | An AI assistant for your system | `Python` |
-| **[Weather_cli](https://github.com/STROKE-MODS/Weather_cli)** | Command-line tool that fetches weather info | — |
+| **[CRRISSEN]((https://github.com/STROKE-MODS/CRRISSEN-client-website))** | Client website for their Company.| 'HTML-CSS-JS' |
 
 
 <br>
