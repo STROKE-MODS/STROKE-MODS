@@ -17,7 +17,7 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/himanshu_singh240407)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/himanshu__0._.0/)
 [![Email](https://img.shields.io/badge/-Email-e94560?style=flat-square&logo=gmail&logoColor=white)](mailto:hs619689@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=STROKE-MODS&color=e94560&style=flat-square&label=views)
 
