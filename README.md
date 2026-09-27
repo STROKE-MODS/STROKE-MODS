@@ -32,7 +32,7 @@ I enjoy turning ideas into working projects, exploring new technologies, and lea
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
-| [**Manus-Claude**](https://github.com/STROKE-MODS/Manus-Claude-Bridge) | AI Developer Tool | A developer bridge that connects Claude Code and Manus workflows, enabling smoother collaboration between AI coding, automation, and task execution. [Live](https://claude-manus-bridge.onrender.com/) |
+| [**Manus-Claude**](https://github.com/STROKE-MODS/Manus-Claude-Bridge) | AI Developer Tool | A developer bridge that connects Claude Code and Manus workflows, enabling smoother collaboration between AI coding, automation, and task execution. [Live](https://claude-manus-bridge-9mv2.onrender.com) |
 | [**JARVIS**](https://github.com/STROKE-MODS/JARVIS) | Local AI Assistant | A local AI assistant built around open-source language models, designed to provide conversational assistance, automate tasks, and explore private, locally hosted AI workflows. |
 
 ## Research Direction
