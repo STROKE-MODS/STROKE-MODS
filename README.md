@@ -27,7 +27,7 @@
 
 ### About
 
-CS student at **Northcap University, Gurugram**, currently spending most of my time between coursework, side projects, and LeetCode. I like taking a rough idea and getting it to actually run — most of what's below started as a "let's see if I can build this" weekend project.
+CS student at **Northcap University, Gurugram**, currently spending most of my time between coursework, side projects, and LeetCode. I like taking a rough idea and getting it to actually run — most of what's below started as a "let's see if I can build this" weekend project.Will be changed soon
 
 **Stack I work in most:** `JAVA` · `Python` · `MySQL` · `SQLite` · `NumPy` · `Git`
 
